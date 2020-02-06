@@ -1,0 +1,19 @@
+ul li {
+  position: relative;
+  list-style-type: none;
+}
+
+input[type="checkbox"] {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+a {
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.completed{
+    text-decoration: line-through;
+}
