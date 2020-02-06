@@ -1,0 +1,14 @@
+body{
+    font-size: 40px;
+}
+#output-area{
+    font-size: 80pt;
+}
+
+#winner-area{
+    font-size: 24pt;
+}
+
+#hit-button, #stay-button{
+    display: none;
+}
