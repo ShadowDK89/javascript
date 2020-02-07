@@ -35,6 +35,7 @@ h1 {
 
 .break {
   margin-bottom: 25px;
+  max-width: 500px;
   flex-basis: 100%;
   height: 0;
 }
